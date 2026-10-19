@@ -11,10 +11,10 @@ terraform {
     # azapi = {
     #   source = "Azure/azapi"
     # }
-    everllence = {
-      source  = "app.terraform.io/manes-central/everllence"
-      version = "1.4.2"
-    }
+    #everllence = {
+    # source  = "app.terraform.io/manes-central/everllence"
+    # version = "1.4.2"
+    # }
     # random = {
     #   source  = "hashicorp/random"
     #   version = "3.7.2"
